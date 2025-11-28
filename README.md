@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @paradoxAb
 - 👀 I’m interested in coding, hacking, web-development(frontend+backend)
-- ⚡ Fun fact: "Snakes and humans come under same category!"...
+- ⚡ Fun fact: "Snakes and humans do not come under same category!"...
 
 <!---
 paradoxAb/paradoxAb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
